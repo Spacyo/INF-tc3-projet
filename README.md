@@ -4,5 +4,4 @@ Ce projet a pour but de créer une application web
 
 Chef de projet : Mickaël Daveau
 
-test(zeyu)
-
+Responsable base de données : Zeyu Lin
