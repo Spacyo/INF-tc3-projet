@@ -2,8 +2,10 @@
 
 Ce projet a pour but de créer une application web
 
-Chef de projet : Mickaël Daveau
+Chef de projet et responsable serveur : Mickaël Daveau
 
 Responsable base de données : Zeyu Lin
 
-Bonjour - Guillaume
+Responsables HTML/css : Guillaume Saunier et Hugo Sankiri
+
+Responsable JavaScript : Axel Volta
