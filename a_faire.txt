@@ -1,7 +1,8 @@
 
-- Cahier des charges clairement présenté (dans le README.md)
-- Rôles bien définis et qui a contribué sur quelle partie
-- Rarticipation de tous les membres au code/données
+- Cahier des charges clairement présenté (dans le README.md) -> Fait
+- Rôles bien définis et qui a contribué sur quelle partie -> Fait
+- Participation de tous les membres au code/données
 - Participation régulière (il n’est pas trop tard..)
 - Objectifs atteints : une bdd remplie, serveur avec ressources et requêtes, envoie des pays/capitales a une page web, la page web affiche ces données sur une carte, interactions pour obtenir des détails sur ces capitales
 - Tout sur votre github et je dois donc être en mesure de faire tourner cela sur ma machine (je peux tester régulièrement)
+- Structurer en sous-répertoires -> Fait
