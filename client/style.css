@@ -1,0 +1,80 @@
+/* fond de page */
+body {
+  background-color: #0085a4;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  /* pour éviter l'ascenseur */
+  border: 3px solid transparent;
+  box-sizing: border-box;
+}
+
+
+/* bandeau de titre */
+
+header{
+  height: 100px;
+  padding: 0 40px 0 40px;
+  border-radius: 10px;
+  width: 90%;
+  display: block;
+  margin: auto;
+}
+h1 { 
+  border: none;
+  box-shadow: 10px 10px 5px black;
+  background-color: rgba(0,0,0,0.3);
+  border-top: 3px solid rgba(0,0,0,0.6);
+  border-bottom: 3px solid rgba(0,0,0,0.6);
+  border-radius: 10px;
+  text-shadow: 5px 5px 5px black;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  text-align: center;
+}
+
+
+
+footer {
+  border-top: solid 1px #ced0b7;
+  background-color: rgba(0,0,0,0.3);
+  text-align: center;
+  color: white;
+  padding: 1em 0 1em 0;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+footer a {
+  color: #A6A88F;
+}
+
+#map{
+  height: 400px;
+  width: 60%; 
+  border-radius: 10px;
+}
+
+/* positionnement des cadres */
+.relative1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: white;
+  width: 0px;
+}
+.relative2 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 0px;
+}
+  
+
+/* positionnement des champs */
+label { display: inline; }
+label span { display: inline; width: 5em; height: 1.5em; }
+
+a.delete:hover {
+  color: red;
+}
+
