@@ -6,6 +6,4 @@ Chef de projet et responsable serveur : Mickaël Daveau
 
 Responsable base de données : Zeyu Lin
 
-Responsables HTML/css : Guillaume Saunier et Hugo Sankiri
-
-Responsable JavaScript : Axel Volta
+Responsables HTML/css et JavaScript : Guillaume Saunier (Binding), Hugo Sankiri (AJAX) et Axel Volta (page web)
